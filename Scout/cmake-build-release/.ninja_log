@@ -1,0 +1,11 @@
+# ninja log v5
+0	505	1680815294907927286	sample/CMakeFiles/ScoutMinimalSample.dir/main.cpp.o	484279bc13d5a2a7
+0	1160	1680815295563910019	CMakeFiles/Scout.dir/src/Scout/MatrixOperations.cpp.o	4fb90470f03200ee
+0	1696	1680815296099895911	CMakeFiles/Scout.dir/src/Scout/Parser.cpp.o	b0ee5ac598e31f44
+0	2467	1680815296871875593	CMakeFiles/Scout.dir/src/Scout/Relation.cpp.o	43471b3ca670950f
+2467	2472	1680815296875875490	libScout.a	1b4064a4d10cb3bc
+2472	2522	1680815296923874225	sample/ScoutMinimalSample	a72d3bff6c6dc845
+0	478	1680815423148552588	sample/CMakeFiles/ScoutMinimalSample.dir/main.cpp.o	484279bc13d5a2a7
+478	530	1680815423212550905	sample/ScoutMinimalSample	a72d3bff6c6dc845
+0	477	1680815444379993995	sample/CMakeFiles/ScoutMinimalSample.dir/main.cpp.o	484279bc13d5a2a7
+477	528	1680815444431992625	sample/ScoutMinimalSample	a72d3bff6c6dc845
